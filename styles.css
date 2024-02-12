@@ -1,0 +1,38 @@
+body{
+    background-color: rgba(255, 201, 210, 0.948);
+    width: 150vh;
+}
+
+.container{
+    position: relative;
+    left: 15pc;
+}
+
+img{
+    position: relative;
+    left: 18pc;
+}
+
+h1,p{
+    font-family: monospace;
+    font-size: 25px;
+}
+
+.button1{
+    width: 200px;
+    height: 100px;
+    background-color: rgb(25, 235, 25);
+    border-radius: 10px;
+}
+
+.button2{
+    width: 200px;
+    height: 100px;
+    background-color: rgb(244, 6, 6);
+    border-radius: 10px;
+}
+
+.buttons{
+    position: relative;
+    left:35pc;
+}
